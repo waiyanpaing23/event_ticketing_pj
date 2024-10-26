@@ -1,0 +1,15 @@
+nav{
+    border-bottom: 1px solid #d5d5d5;
+}
+.container-fluid{
+    min-height: 850px;
+}
+
+input:focus{
+    outline: 1px solid rgb(37, 37, 37) !important;
+    box-shadow: none !important;
+}
+.nav-link{
+    color: black !important;
+    font-weight:500 !important;
+}
